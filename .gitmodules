@@ -7,3 +7,6 @@
 [submodule "ms-gateway-cesi"]
 	path = ms-gateway-cesi
 	url = https://github.com/Killian-Aidalinfo/ms-gateway-cesi.git
+[submodule "ms-frontend-gpt-cesi"]
+	path = ms-frontend-gpt-cesi
+	url = https://github.com/Killian-Aidalinfo/ms-frontend-gpt-cesi.git
