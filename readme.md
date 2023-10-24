@@ -11,3 +11,10 @@ Federation Gateway microservice for using in another project too
 Initiliaze sub module
 Docker compose
 (A venir)
+
+```
+git submodule update --init --recursive
+```
+```
+docker compose up
+```
