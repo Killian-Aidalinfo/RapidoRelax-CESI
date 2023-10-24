@@ -18,3 +18,5 @@ git submodule update --init --recursive
 ```
 docker compose up
 ```
+
+Please copy folder env-example to env and add in ms-gpt.env a api key
