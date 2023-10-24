@@ -1,0 +1,9 @@
+[submodule "ms-chat-cesi"]
+	path = ms-chat-cesi
+	url = https://github.com/Killian-Aidalinfo/ms-chat-cesi.git
+[submodule "ms-gptLink-cesi"]
+	path = ms-gptLink-cesi
+	url = https://github.com/Killian-Aidalinfo/ms-gptLink-cesi.git
+[submodule "ms-gateway-cesi"]
+	path = ms-gateway-cesi
+	url = https://github.com/Killian-Aidalinfo/ms-gateway-cesi.git
