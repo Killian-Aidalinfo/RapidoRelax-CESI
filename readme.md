@@ -20,3 +20,7 @@ docker compose up
 ```
 
 Please copy folder env-example to env and add in ms-gpt.env a api key
+
+## Rendu
+
+![image](https://github.com/Killian-Aidalinfo/RapidoRelax-CESI/assets/146849979/c7901357-3bc7-439f-9139-69ae285f9580)
